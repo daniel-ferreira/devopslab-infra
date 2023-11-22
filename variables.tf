@@ -12,5 +12,5 @@ variable "region" {
 variable "zone" {
   description = "Google Cloud zone"
   type        = string
-  default     = "us-east1"
+  default     = "us-west1-b"
 }
